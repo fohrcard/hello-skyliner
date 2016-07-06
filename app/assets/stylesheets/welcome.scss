@@ -1,5 +1,5 @@
 body {
-  background-image: image-url("background.png");
+  background-image: image-url("background.png") no-repeat;
   font: bold 14px "Helvetica Neue", Arial, Helvetica, sans-serif;
   background-size: cover !important;
 }
