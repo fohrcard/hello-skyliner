@@ -1,6 +1,7 @@
 body {
   background-image: image-url("background.png");
   font: bold 14px "Helvetica Neue", Arial, Helvetica, sans-serif;
+  background-size: cover !important;
 }
 
 #logo {
